@@ -1,4 +1,6 @@
 ## Hi there 👋
+This is the one true source of knowledge for MHacks 17. Not the Slack, not a text from Kevin or Harry-- here. We'll update the docs in the Docs repo and in the Wiki! This is super exciting stuff, looking forward to working on it with you all. 
+
 
 <!--
 
